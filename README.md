@@ -1,4 +1,4 @@
 # First-Genetic-Algorithm
 My first attempt at genetic algorithm leaning
 
-![example.png]
+![Example image](example.png)
