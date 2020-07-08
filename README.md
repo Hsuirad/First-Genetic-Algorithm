@@ -1,4 +1,4 @@
 # First-Genetic-Algorithm
-My first attempt at genetic algorithm leaning
+My first attempt at genetic algorithm learning
 
 ![Example image](example.png)
